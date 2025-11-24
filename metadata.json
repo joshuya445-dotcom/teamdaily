@@ -1,0 +1,5 @@
+{
+  "name": "TeamDaily",
+  "description": "A Notion/Linear-style team daily report system with Gemini AI summarization, dashboard analytics, and role-based access control.",
+  "requestFramePermissions": []
+}
